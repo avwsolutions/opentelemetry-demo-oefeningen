@@ -154,7 +154,7 @@ Gebruikers melden:
 
 Je ontvangt alleen:
 
-> Ticket #4587
+> Case #4587
 
 Verder is geen aanvullende informatie beschikbaar.
 
